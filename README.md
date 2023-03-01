@@ -6,6 +6,7 @@
 > Я начинающий веб-разработчик. Мне 19 лет, проживаю в городе Москва. Увлекаюсь иностранными языками: английский - уровень В1-В2, занялась параллельным изучением китайского. Люблю спорт(вейкборд, лыжи, танцы), путешествовать(хочу побывать в Париже), рисовать(нейрографика).
 >> Сейчас оканчиваю курсы "веб-разработик" от Яндекс.Практикума. Также оканичиваю обучения в  Белгородском государственном национальном исследовательском университете, "Институт Инженерных и Цифровых Технологий" - направление "Бизнес-информатик".
 ### `Связаться со мной`
+[![Icon SVG](https://images.unsplash.com/photo-1636743094110-5e153f93ad7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVsZWdyYW0lMjBpY29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60)](https://t.me/sofa_IV0)
 <img src="https://img.shields.io/badge/Mail.Ru-white?style=for-the-badge&logo=Mail.Ru&logoColor=696969"/>
 <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=696969"/>
 ---
