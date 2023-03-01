@@ -6,8 +6,8 @@
 > Я начинающий веб-разработчик. Мне 19 лет, проживаю в городе Москва. Увлекаюсь иностранными языками: английский - уровень В1-В2, занялась параллельным изучением китайского. Люблю спорт(вейкборд, лыжи, танцы), путешествовать(хочу побывать в Париже), рисовать(нейрографика).
 >> Сейчас оканчиваю курсы "веб-разработик" от Яндекс.Практикума. Также оканичиваю обучения в  Белгородском государственном национальном исследовательском университете, "Институт Инженерных и Цифровых Технологий" - направление "Бизнес-информатик".
 ### `Связаться со мной`
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/sofa_IV0)
-<img src="https://img.shields.io/badge/Mail.Ru-white?style=for-the-badge&logo=Mail.Ru&logoColor=696969"/>
+* [![Telegram](https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/sofa_IV0)
+* <img src="https://img.shields.io/badge/Почта-0000CD?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00"/> - tvoi_swetty@mail.ru
 ---
 
 >>> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500"> 
