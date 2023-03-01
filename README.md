@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет+,+меня+зовут+Софа+)+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет+,+меня+зовут+Софа+)+`Обо мне`](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> Обо мне
 > Я начинающий веб-разработчик. Мне 19 лет, проживаю в городе Москва. Увлекаюсь иностранными языками: английский - уровень В1-В2, занялась параллельным изучением китайского. Люблю спорт(вейкборд, лыжи, танцы), путешествовать(хочу побывать в Париже), рисовать(нейрографика).
