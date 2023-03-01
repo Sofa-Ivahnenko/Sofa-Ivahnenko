@@ -7,9 +7,9 @@
 >> Сейчас оканчиваю курсы "веб-разработик" от Яндекс.Практикума. Также оканичиваю обучения в  Белгородском государственном национальном исследовательском университете, "Институт Инженерных и Цифровых Технологий" - направление "Бизнес-информатик".
 ### <div id="header" align="center">Связаться со мной
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  * [![Telegram](https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/sofa_IV0)
+  * [![Mail](https://img.shields.io/badge/Почта-0000CD?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00)](tvoi_swetty@mail.ru)
 </div>
-* [![Telegram](https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/sofa_IV0)
-* [![Mail](https://img.shields.io/badge/Почта-0000CD?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00)](tvoi_swetty@mail.ru)
 ---
 
 >>> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500"> 
