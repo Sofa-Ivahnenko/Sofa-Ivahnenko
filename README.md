@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет+,+меня+зовут+Софа)](https://git.io/typing-svg)
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## <img src="https://img.shields.io/badge/Обо мне-white?style=for-the-badge&logo=Buy Me A Coffee&logoColor=696969"/>
 
 > Я начинающий веб-разработчик. Мне 19 лет, проживаю в городе Москва. Увлекаюсь иностранными языками: английский - уровень В1-В2, занялась параллельным изучением китайского. Люблю спорт(вейкборд, лыжи, танцы), путешествовать(хочу побывать в Париже), рисовать(нейрографика).
