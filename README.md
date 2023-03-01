@@ -5,7 +5,7 @@
 >> Сейчас оканчиваю курсы "веб-разработик" от Яндекс.Практикума. Также оканичиваю обучения в  Белгородском государственном национальном исследовательском университете, "Институт Инженерных и Цифровых Технологий" - направление "Бизнес-информатик".
 ### `Связаться со мной`
 <img src="https://img.shields.io/badge/Mail.Ru-white?style=for-the-badge&logo=Mail.Ru&logoColor=696969"/>
-<img src="https://img.shields.io/badge/Telegram(https://t.me/sofa_IV0)-white?style=for-the-badge&logo=Telegram&logoColor=696969"/>
+<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=696969"/>
 ---
 
 >>> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500"> 
